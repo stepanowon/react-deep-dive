@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: foxes-band-app-deploy
+  namespace: default
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: foxes-band-app
+  template:
+    metadata:
+      name: foxes-band-app
+      labels:
+        app: foxes-band-app
+    spec:
+      containers:
+      - name: foxes-band-app
+        image: stepanow/foxes-band-app:1.0.5
+        ports:
+        - containerPort: 80

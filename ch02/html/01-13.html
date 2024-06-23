@@ -1,0 +1,16 @@
+<html lang="ko">
+<body>
+<h2>Console.log 를 확인합니다.</h2>
+<script type="text/javascript">
+var g = "GLOBAL";
+function test() {
+    console.log(g);
+    if (false) {
+        var g = "TEST";
+    }
+    console.log(g);
+}
+test();
+</script>
+</body>
+</html>

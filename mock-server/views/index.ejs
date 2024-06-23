@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>todolist 서비스</title>
+</head>
+<body>
+    <h1><%=title %></h1>
+    <h3><%=subtitle %></h3>
+    <hr />
+    <h3>서비스 목록</h3>
+    <div>
+        [() 속의 값은 HTTP Body로 전달할 JSON 필드]
+        <ul>
+            <li>
+                GET /songs<br />
+                전체 곡 리스트 조회<br /><br />
+            </li>
+            <li>
+                GET /songs/:id<br />
+                특정 곡 한건 조회<br /><br />
+            </li>
+            <li>
+                POST /songs<br />
+                새로운 곡 추가(title, musician, youtube_link)<br /><br />
+            </li>
+            <li>
+                PUT /songs/:id<br />
+                기존 곡 정보 변경(id, title, musician, youtube_link)<br /><br />
+            </li>
+            <li>
+                DELETE /songs/:id<br />
+                기존 곡 삭제<br /><br />
+            </li>
+            <li>
+                GET /members<br />
+                전체 멤버 리스트 조회<br /><br />
+            </li>
+			<li>
+                GET /songs_long<br />
+                전체 곡 리스트 조회 + 2초의 의도적 지연 시간<br /><br />
+            </li>
+            <li>
+                GET /members_long<br />
+                전체 멤버 리스트 조회기능 + 2초의 의도적 지연 시간<br /><br />
+            </li>
+			<li>
+                POST /songs_long<br />
+                새로운 곡 추가기능(title, musician, youtube_link) + 2초의 의도적 지연 시간<br /><br />
+            </li>
+        </ul>
+    </div>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<html lang="ko">
+<body>
+    <h2>Console.log 를 확인합니다.</h2>
+    <script type="text/javascript">
+var msg = "GLOBAL";
+function outer() {
+    //var msg = "OUTER";
+    console.log(msg);
+    inner();
+    function inner() {
+        //var msg = "INNER";
+        console.log(msg);
+    }
+}
+outer();
+    </script>
+</body>
+</html>

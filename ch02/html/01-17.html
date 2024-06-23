@@ -1,0 +1,17 @@
+<html lang="ko">
+<body>
+<h2>Console.log 를 확인합니다.</h2>
+<script type="text/javascript">
+function outer(x) {
+    function inner(y) {
+        return x+y;
+    }
+    return inner;
+}
+
+var a = outer(4);
+var result = a(5);
+console.log(result);
+</script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+<html lang="ko">
+<body>
+<h2>Console.log 를 확인합니다.</h2>
+<script type="text/javascript">
+var test3 = (function f() {
+   function f() { return "hello" }
+   return f;
+   function f() { return "world" }
+})();
+
+console.log(test3());
+</script>
+</body>
+</html>

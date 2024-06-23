@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ko">
+<body>
+<div id="root"></div>
+<script>
+const TestReact = (() => {
+    let currentStateKey = 0; 
+    const states = [];
+  
+    const useState = (initialValue) => {
+        const key = currentStateKey;
+        
+        if (states.length === key) {
+          states.push(initialValue);
+        }
+    
+        const state = states[key];
+        const setState = (newState) => {
+            states[key] = newState;
+            render();
+        }
+  
+        currentStateKey += 1;
+        return [ state, setState ];
+  
+    };
+  
+    const render = () => {
+        const $root = document.querySelector('#root');
+        $root.innerHTML = `
+            <div>
+            ${Counter()}
+            </div>
+        `;
+        currentStateKey = 0;
+    }
+
+    return { useState, render };
+})();
+
+const { render, useState } = TestReact;
+    
+const Counter = () => {
+    const [count, setCount] = useState(1);
+
+    window.increment = () => setCount(count + 1);
+
+    return `
+      <div>
+        <span>count: ${count} </span>
+        <button onclick="increment()">1씩 증가</button>
+      </div>
+    `;
+}    
+
+render();
+
+</script>
+</body>
+</html>

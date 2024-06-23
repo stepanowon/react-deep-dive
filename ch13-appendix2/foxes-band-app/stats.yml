@@ -1,0 +1,472 @@
+assets/About-ZKqpgrD5.js:
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/src/pages/About.tsx:
+    rendered: 223
+    gzip: 174
+    brotli: 140
+assets/AddSong-DlytL4Y3.js:
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/src/pages/AddSong.tsx:
+    rendered: 2164
+    gzip: 626
+    brotli: 542
+assets/Home-CiVyat1P.js:
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/src/pages/Home.tsx:
+    rendered: 188
+    gzip: 151
+    brotli: 113
+assets/index-B9bLLAdh.js:
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/index.html:
+    rendered: 0
+    gzip: 0
+    brotli: 0
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/@remix-run/router/dist/router.js:
+    rendered: 149008
+    gzip: 38855
+    brotli: 32662
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/index.js:
+    rendered: 400
+    gzip: 254
+    brotli: 207
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/adapters/adapters.js:
+    rendered: 1767
+    gzip: 763
+    brotli: 647
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/adapters/xhr.js:
+    rendered: 8197
+    gzip: 2642
+    brotli: 2284
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/axios.js:
+    rendered: 1702
+    gzip: 648
+    brotli: 557
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/cancel/CanceledError.js:
+    rendered: 580
+    gzip: 318
+    brotli: 270
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/cancel/CancelToken.js:
+    rendered: 2454
+    gzip: 825
+    brotli: 707
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/cancel/isCancel.js:
+    rendered: 70
+    gzip: 82
+    brotli: 74
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/core/Axios.js:
+    rendered: 5880
+    gzip: 1833
+    brotli: 1623
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/core/AxiosError.js:
+    rendered: 2478
+    gzip: 974
+    brotli: 820
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/core/AxiosHeaders.js:
+    rendered: 6829
+    gzip: 2041
+    brotli: 1810
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/core/buildFullPath.js:
+    rendered: 553
+    gzip: 278
+    brotli: 236
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/core/dispatchRequest.js:
+    rendered: 1870
+    gzip: 649
+    brotli: 551
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/core/InterceptorManager.js:
+    rendered: 1483
+    gzip: 595
+    brotli: 488
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/core/mergeConfig.js:
+    rendered: 3295
+    gzip: 935
+    brotli: 802
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/core/settle.js:
+    rendered: 768
+    gzip: 349
+    brotli: 285
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/core/transformData.js:
+    rendered: 618
+    gzip: 327
+    brotli: 293
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/defaults/index.js:
+    rendered: 3980
+    gzip: 1413
+    brotli: 1232
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/defaults/transitional.js:
+    rendered: 116
+    gzip: 113
+    brotli: 87
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/env/data.js:
+    rendered: 26
+    gzip: 46
+    brotli: 30
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/helpers/AxiosURLSearchParams.js:
+    rendered: 1350
+    gzip: 628
+    brotli: 513
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/helpers/bind.js:
+    rendered: 103
+    gzip: 99
+    brotli: 74
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/helpers/buildURL.js:
+    rendered: 1425
+    gzip: 636
+    brotli: 526
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/helpers/combineURLs.js:
+    rendered: 351
+    gzip: 208
+    brotli: 161
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/helpers/cookies.js:
+    rendered: 969
+    gzip: 472
+    brotli: 359
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/helpers/formDataToJSON.js:
+    rendered: 2098
+    gzip: 852
+    brotli: 729
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/helpers/HttpStatusCode.js:
+    rendered: 1573
+    gzip: 803
+    brotli: 622
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/helpers/isAbsoluteURL.js:
+    rendered: 530
+    gzip: 354
+    brotli: 253
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/helpers/isAxiosError.js:
+    rendered: 310
+    gzip: 205
+    brotli: 162
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/helpers/isURLSameOrigin.js:
+    rendered: 2181
+    gzip: 856
+    brotli: 689
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/helpers/null.js:
+    rendered: 60
+    gzip: 80
+    brotli: 56
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/helpers/parseHeaders.js:
+    rendered: 1338
+    gzip: 692
+    brotli: 574
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/helpers/parseProtocol.js:
+    rendered: 120
+    gzip: 127
+    brotli: 98
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/helpers/speedometer.js:
+    rendered: 1047
+    gzip: 462
+    brotli: 400
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/helpers/spread.js:
+    rendered: 535
+    gzip: 301
+    brotli: 242
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/helpers/toFormData.js:
+    rendered: 5795
+    gzip: 1901
+    brotli: 1674
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/helpers/toURLEncodedForm.js:
+    rendered: 400
+    gzip: 269
+    brotli: 208
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/helpers/validator.js:
+    rendered: 2493
+    gzip: 942
+    brotli: 810
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/platform/browser/classes/Blob.js:
+    rendered: 57
+    gzip: 69
+    brotli: 56
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/platform/browser/classes/FormData.js:
+    rendered: 69
+    gzip: 73
+    brotli: 55
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/platform/browser/classes/URLSearchParams.js:
+    rendered: 106
+    gzip: 84
+    brotli: 72
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/platform/browser/index.js:
+    rendered: 205
+    gzip: 161
+    brotli: 132
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/platform/common/utils.js:
+    rendered: 1376
+    gzip: 592
+    brotli: 447
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/platform/index.js:
+    rendered: 49
+    gzip: 58
+    brotli: 53
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/axios/lib/utils.js:
+    rendered: 17465
+    gzip: 5051
+    brotli: 4464
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/bootstrap/dist/css/bootstrap.css:
+    rendered: 0
+    gzip: 0
+    brotli: 0
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/p-min-delay/index.js:
+    rendered: 220
+    gzip: 155
+    brotli: 135
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/react-csspin/dist/index.js:
+    rendered: 3893
+    gzip: 1740
+    brotli: 1494
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/react-csspin/dist/style.css:
+    rendered: 0
+    gzip: 0
+    brotli: 0
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/react-dom/cjs/react-dom.production.min.js:
+    rendered: 132362
+    gzip: 42388
+    brotli: 36870
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/react-dom/cjs/react-dom.production.min.js?commonjs-exports:
+    rendered: 33
+    gzip: 53
+    brotli: 37
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/react-dom/client.js:
+    rendered: 102
+    gzip: 86
+    brotli: 83
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/react-dom/client.js?commonjs-exports:
+    rendered: 16
+    gzip: 36
+    brotli: 17
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/react-dom/index.js:
+    rendered: 450
+    gzip: 259
+    brotli: 207
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/react-dom/index.js?commonjs-module:
+    rendered: 29
+    gzip: 49
+    brotli: 33
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/react-router-dom/dist/index.js:
+    rendered: 21524
+    gzip: 5521
+    brotli: 4833
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/react-router/dist/index.js:
+    rendered: 22202
+    gzip: 4836
+    brotli: 4283
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/react/cjs/react-jsx-runtime.production.min.js:
+    rendered: 919
+    gzip: 555
+    brotli: 445
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/react/cjs/react-jsx-runtime.production.min.js?commonjs-exports:
+    rendered: 40
+    gzip: 60
+    brotli: 37
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/react/cjs/react.production.min.js:
+    rendered: 7627
+    gzip: 2808
+    brotli: 2420
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/react/cjs/react.production.min.js?commonjs-exports:
+    rendered: 30
+    gzip: 50
+    brotli: 34
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/react/index.js:
+    rendered: 144
+    gzip: 121
+    brotli: 108
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/react/index.js?commonjs-module:
+    rendered: 26
+    gzip: 46
+    brotli: 30
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/react/jsx-runtime.js:
+    rendered: 103
+    gzip: 84
+    brotli: 77
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/react/jsx-runtime.js?commonjs-module:
+    rendered: 31
+    gzip: 51
+    brotli: 35
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/scheduler/cjs/scheduler.production.min.js:
+    rendered: 4315
+    gzip: 1817
+    brotli: 1576
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/scheduler/cjs/scheduler.production.min.js?commonjs-exports:
+    rendered: 34
+    gzip: 54
+    brotli: 32
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/scheduler/index.js:
+    rendered: 94
+    gzip: 76
+    brotli: 64
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/scheduler/index.js?commonjs-module:
+    rendered: 30
+    gzip: 50
+    brotli: 34
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/yoctodelay/index.js:
+    rendered: 115
+    gzip: 124
+    brotli: 92
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/src/actions/index.ts:
+    rendered: 1016
+    gzip: 305
+    brotli: 245
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/src/App.tsx:
+    rendered: 232
+    gzip: 160
+    brotli: 122
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/src/components/ErrorBoundary.tsx:
+    rendered: 1734
+    gzip: 590
+    brotli: 504
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/src/components/Header.tsx:
+    rendered: 1178
+    gzip: 333
+    brotli: 282
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/src/index.css:
+    rendered: 0
+    gzip: 0
+    brotli: 0
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/src/loaders/index.ts:
+    rendered: 511
+    gzip: 204
+    brotli: 170
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/src/main.tsx:
+    rendered: 383
+    gzip: 231
+    brotli: 177
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/src/router/index.tsx:
+    rendered: 2359
+    gzip: 617
+    brotli: 540
+  commonjsHelpers.js:
+    rendered: 140
+    gzip: 142
+    brotli: 102
+  vite/modulepreload-polyfill.js:
+    rendered: 1548
+    gzip: 579
+    brotli: 494
+  vite/preload-helper.js:
+    rendered: 2453
+    gzip: 1045
+    brotli: 842
+assets/Members-B4ITFATW.js:
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/src/pages/Members.tsx:
+    rendered: 1343
+    gzip: 429
+    brotli: 380
+assets/Player-BvSnAYlM.js:
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/fast-deep-equal/index.js:
+    rendered: 1234
+    gzip: 517
+    brotli: 432
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/load-script/index.js:
+    rendered: 1660
+    gzip: 701
+    brotli: 561
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/prop-types/factoryWithThrowingShims.js:
+    rendered: 1618
+    gzip: 713
+    brotli: 592
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/prop-types/index.js:
+    rendered: 174
+    gzip: 138
+    brotli: 138
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/prop-types/index.js?commonjs-module:
+    rendered: 32
+    gzip: 52
+    brotli: 36
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/prop-types/lib/ReactPropTypesSecret.js:
+    rendered: 314
+    gzip: 232
+    brotli: 177
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/react-youtube/dist/YouTube.esm.js:
+    rendered: 9697
+    gzip: 2292
+    brotli: 1985
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/sister/src/sister.js:
+    rendered: 1300
+    gzip: 474
+    brotli: 399
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/youtube-player/dist/constants/PlayerStates.js:
+    rendered: 346
+    gzip: 242
+    brotli: 181
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/youtube-player/dist/constants/PlayerStates.js?commonjs-module:
+    rendered: 33
+    gzip: 53
+    brotli: 37
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/youtube-player/dist/eventNames.js:
+    rendered: 568
+    gzip: 363
+    brotli: 310
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/youtube-player/dist/eventNames.js?commonjs-module:
+    rendered: 31
+    gzip: 51
+    brotli: 35
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/youtube-player/dist/functionNames.js:
+    rendered: 1022
+    gzip: 480
+    brotli: 402
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/youtube-player/dist/functionNames.js?commonjs-module:
+    rendered: 34
+    gzip: 54
+    brotli: 38
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/youtube-player/dist/FunctionStateMap.js:
+    rendered: 1033
+    gzip: 423
+    brotli: 345
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/youtube-player/dist/FunctionStateMap.js?commonjs-module:
+    rendered: 37
+    gzip: 57
+    brotli: 41
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/youtube-player/dist/index.js:
+    rendered: 3394
+    gzip: 1290
+    brotli: 1080
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/youtube-player/dist/index.js?commonjs-module:
+    rendered: 25
+    gzip: 45
+    brotli: 29
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/youtube-player/dist/loadYouTubeIframeApi.js:
+    rendered: 1470
+    gzip: 632
+    brotli: 524
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/youtube-player/dist/loadYouTubeIframeApi.js?commonjs-module:
+    rendered: 41
+    gzip: 61
+    brotli: 45
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/youtube-player/dist/YouTubePlayer.js:
+    rendered: 6441
+    gzip: 1828
+    brotli: 1514
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/youtube-player/dist/YouTubePlayer.js?commonjs-module:
+    rendered: 34
+    gzip: 54
+    brotli: 38
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/youtube-player/node_modules/debug/src/browser.js:
+    rendered: 2933
+    gzip: 1154
+    brotli: 968
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/youtube-player/node_modules/debug/src/browser.js?commonjs-module:
+    rendered: 28
+    gzip: 48
+    brotli: 32
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/youtube-player/node_modules/debug/src/debug.js:
+    rendered: 4638
+    gzip: 1727
+    brotli: 1466
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/youtube-player/node_modules/debug/src/debug.js?commonjs-module:
+    rendered: 26
+    gzip: 46
+    brotli: 30
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/node_modules/youtube-player/node_modules/ms/index.js:
+    rendered: 2755
+    gzip: 957
+    brotli: 828
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/src/components/Player.tsx:
+    rendered: 1536
+    gzip: 528
+    brotli: 457
+assets/SongList-eKtED_4E.js:
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/src/pages/SongList.tsx:
+    rendered: 2067
+    gzip: 603
+    brotli: 527
+assets/UpdateSong-B6efdR8T.js:
+  C:/dev/workspace_react/react-deep/ch13-appendix2/foxes-band-app/src/pages/UpdateSong.tsx:
+    rendered: 2725
+    gzip: 743
+    brotli: 621

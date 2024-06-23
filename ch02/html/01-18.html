@@ -1,0 +1,22 @@
+<html lang="ko">
+<body>
+<h2>Console.log 를 확인합니다.</h2>
+<script type="text/javascript">
+const getCounter = (base) => {
+    let num = base;
+    return () => {
+        return { base: base, count: ++num };
+    }
+}
+
+const counter1 = getCounter(10);
+const counter2 = getCounter(500);
+
+console.log(counter1());
+console.log(counter1());
+console.log(counter2());
+console.log(counter2());
+console.log(counter2());
+</script>
+</body>
+</html>
