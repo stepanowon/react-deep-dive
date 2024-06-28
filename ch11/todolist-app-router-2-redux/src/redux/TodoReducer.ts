@@ -32,7 +32,10 @@ const TodoReducer = (state: TodoStatesType = initialState, action: TodoActionTyp
         });
       });
     case TODO_ACTION.DELETE_TODO:
-      return state.todoList.filter((item) => item.id !== action.payload.id);
+      index = state.todoList.findIndex((item) => item.id === action.payload.id);
+      return produce(state, (draft) => {
+        draft.todoList.splice(index,1)
+      });
     case TODO_ACTION.TOGGLE_DONE:
       index = state.todoList.findIndex((item) => item.id === action.payload.id);
       return produce(state, (draft) => {
