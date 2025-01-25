@@ -1,0 +1,3 @@
+1. react-router의 loader를 적용할 때 defer를 사용하지 않음
+2. react-router와 suspense하기 위해 각 <Route />에서 <Suspense /> 해야 하며 고유의 key를 지정해야 함
+   router/index.tsx 코드와 main.tsx 에서의 변경 사항 확인
