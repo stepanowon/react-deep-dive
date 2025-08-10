@@ -1,0 +1,15 @@
+{
+  "name": "app2",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/app2/src",
+  "projectType": "application",
+  "tags": [],
+  "targets": {
+    "serve": {
+      "options": {
+        "port": 4202
+      },
+      "dependsOn": ["host-app:serve"]
+    }
+  }
+}
